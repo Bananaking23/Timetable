@@ -3,6 +3,7 @@
 This project is a useful thing, and it helped my 3d modelling skills.
 
 I have made a new timetable using a Seeed XIAO nRF52840 as it has bluetooth and it is very small, a 1.54 inch epaper display, and an rgb led. It uses a lipo battery and a tp4056 to charge it. 
+it is used by changing the subjects in the code and then turning it on
 
 ## Photos
 
