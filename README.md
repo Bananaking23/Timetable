@@ -30,3 +30,4 @@ It connecsts to the case using a 2 pin pogo connector.
 <img width="1604" height="300" alt="image" src="https://github.com/user-attachments/assets/6b339ac7-339a-47de-996d-e76c4518c938" />
 THIS IS WITHOUT DISCOUNTS BTW, i cant include discounts rn as they arent in my cart, just a wishlist, but it will be about 10-15 pounds less
 
+
