@@ -6,7 +6,9 @@ I have made a new timetable using a Seeed XIAO nRF52840 as it has bluetooth and 
 it is used by changing the subjects in the code and then turning it on, 2 buttons are for up and down, 1 for select, a switch to turn on/off
 
 ## Photos
+### case+stand+pcb
 <img width="918" height="705" alt="image" src="https://github.com/user-attachments/assets/6b724ee7-bc7b-48e8-96e3-c8ff8963a2ed" />
+
 ### Case
 <img width="619" height="654" alt="image" src="https://github.com/user-attachments/assets/193bdca2-d5d7-47f2-8428-541f565bac97" />
 <img width="613" height="520" alt="image" src="https://github.com/user-attachments/assets/58898486-e019-4650-93ed-4c4be1d709d8" />
